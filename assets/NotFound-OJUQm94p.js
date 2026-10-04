@@ -1,0 +1,1 @@
+import{j as n,L as s}from"./index-ARb-NBco.js";function t(){return n.jsxs("main",{children:[n.jsx("h2",{children:"404 – Page not found"}),n.jsx(s,{className:"btn",to:"/",children:"Back to courses"})]})}export{t as default};
