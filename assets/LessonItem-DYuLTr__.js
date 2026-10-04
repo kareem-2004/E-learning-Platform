@@ -1,0 +1,1 @@
+import{j as s}from"./index-CuLf8-Nr.js";function a({l:e,done:n,current:t}){return s.jsxs("div",{className:"les"+(t?" cur":""),children:[s.jsx("span",{className:"chk"+(n?" d":""),children:n?"✓":""}),s.jsx("span",{style:{flex:1},children:e.title}),s.jsxs("span",{className:"mut",style:{fontSize:13},children:[e.minutes," min"]})]})}export{a as L};
